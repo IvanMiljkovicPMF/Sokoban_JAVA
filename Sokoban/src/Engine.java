@@ -56,7 +56,7 @@ public class Engine {
 		fields[3][4] = Fields.box;
 		fields[4][4] = Fields.box;
 		fields[6][4] = Fields.box;
-		fields[6][2] = Fields.box;
+		fields[6][1] = Fields.box;
 		fields[6][5] = Fields.box;
 	}
 	private boolean isThisBox(int i, int j) {
