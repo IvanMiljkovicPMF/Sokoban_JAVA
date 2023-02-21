@@ -1,4 +1,5 @@
 # Sokoban game
+Sokoban is a type of scrolling puzzle game, in which the player moves boxes by pushing them within a warehouse, with the goal of placing them in marked locations. This game is mostly implemented as a video game.
 
 ![start](https://user-images.githubusercontent.com/108157316/215294094-4482e1a7-0464-42be-9f36-77031e47c694.JPG)<br>
 ![action_right](https://user-images.githubusercontent.com/108157316/215294103-3aa9a64d-90c0-4da0-8ae8-bd04df978c0b.JPG)<br>
